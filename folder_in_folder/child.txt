@@ -1,0 +1,2 @@
+This child file contains a new text which is happening to be in the folder inside a 
+parent folder
